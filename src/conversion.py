@@ -1,2 +1,2 @@
-def rands_to_cents(rands).
-	return rand * 10
+def rands_to_cents(rands):
+	return rand * 100
